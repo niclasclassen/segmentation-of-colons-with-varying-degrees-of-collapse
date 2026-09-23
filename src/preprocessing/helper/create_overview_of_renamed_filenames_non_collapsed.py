@@ -1,11 +1,16 @@
+"""
+The following code created a .txt file with updated filenames of non-collapsed cases to match the naming convention used for nnU-Net.
+For example: sub001_pos-supine_scan-1.mha -> colon_0001-supine.mha
+"""
+
 import re
 from pathlib import Path
 
-pattern = re.compile(r"^.*?(\d+)_pos-(prone|supine).*\.mha$")
+PATTERN = re.compile(r"^.*?(\d+)_pos-(prone|supine).*\.mha$")
 
 
 for line in Path("data/raw/filenames_non_collapsed_original.txt").read_text().splitlines():
-    m = pattern.match(line)
+    m = PATTERN.match(line)
 
     print(m)
     if not m:

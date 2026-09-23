@@ -6,7 +6,7 @@ import SimpleITK as sitk
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Compute volume and skeleton size.",
+        description="Align segmentation masks to RAI and normalize voxel spacing.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
 

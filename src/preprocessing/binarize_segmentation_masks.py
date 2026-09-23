@@ -5,7 +5,7 @@ import argparse
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Compute volume and skeleton size.",
+        description="Binarize segmentations masks.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
 
@@ -38,6 +38,10 @@ def parse_args():
     return parser.parse_args()
 
 def main():
+    """ The following code ensures that all voxel values are either 0 or 1. 
+        Furthermore, to remove outliers, connected components below a certain size are being removed.
+    """
+    
     # load args
     args = parse_args()
 
@@ -53,7 +57,6 @@ def main():
         output_path = os.path.join(args.output_dir, file_name)
 
         image = sitk.ReadImage(input_path)
-        array = sitk.GetArrayFromImage(image)
 
         # remove all connected components smaller than args.min_cmp_size voxels
         cc_filter = sitk.ConnectedComponentImageFilter()
