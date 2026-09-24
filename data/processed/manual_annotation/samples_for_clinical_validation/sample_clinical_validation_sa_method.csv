@@ -1,63 +1,63 @@
 File / Case ID,"1. Colon
-Status",2. FP Removal,Unnamed: 3,3. Leakage,Unnamed: 5,4. Fluid,Unnamed: 7,"5. Final
-Decision",6. Effort,Notes,Subject ID,Scanner,patients_age,Patient Sex
-271_pos-prone,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,271,GE MEDICAL SYSTEMS,79.0,F
-061_pos-supine,Good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,061,GE MEDICAL SYSTEMS,52.0,F
-114_pos-supine,Very good,No,No,No,No,Yes,Very good,Accept,Minor (<5 min),,114,GE MEDICAL SYSTEMS,60.0,M
-214_pos-prone,Very good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),,214,GE MEDICAL SYSTEMS,50.0,M
-070_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,070,GE MEDICAL SYSTEMS,62.0,M
-130_pos-prone,Very good,No,No,No,No,Yes,Very good,Accept,Minor (<5 min),,130,GE MEDICAL SYSTEMS,50.0,M
-216_pos-prone,Very good,No,No,No,No,No,,Accept,Minor (<5 min),,216,GE MEDICAL SYSTEMS,50.0,F
-207_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,207,GE MEDICAL SYSTEMS,60.0,F
-131_pos-prone,Good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,131,GE MEDICAL SYSTEMS,60.0,F
-077_pos-prone,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),,077,GE MEDICAL SYSTEMS,50.0,M
-403_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Major (>10 min),,403,GE MEDICAL SYSTEMS,51.0,M
-109_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,109,GE MEDICAL SYSTEMS,70.0,M
-272_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,272,GE MEDICAL SYSTEMS,56.0,F
-415_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,415,GE MEDICAL SYSTEMS,53.0,M
-082_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,082,GE MEDICAL SYSTEMS,50.0,F
-583_pos-supine,Good,Yes,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),,583,Philips,70.0,F
-282_pos-supine,Very good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Minor (<5 min),,282,Philips,52.0,F
-011_pos-supine,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),,011,Philips,56.0,M
-281_pos-prone,Good,No,No,Yes,Yes,No,,Accept with edits,Minor (<5 min),,281,Philips,72.0,F
-673_pos-supine,Very good,Yes,Yes,Yes,No,Yes,Very good,Accept with edits,Moderate (5-10 min),,673,Philips,50.0,F
-582_pos-prone,Good,Yes,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),,582,Philips,55.0,M
-012_pos-supine,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,012,Philips,70.0,F
-582_pos-supine,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,582,Philips,55.0,M
-191_pos-prone,Very good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Minor (<5 min),,191,Philips,60.0,M
-072_pos-prone,Good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Minor (<5 min),,072,Philips,57.0,F
-283_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,283,Philips,59.0,F
-697_pos-supine,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),,697,Philips,60.0,F
-189_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min) ,,189,Philips,70.0,M
-190_pos-prone,Very good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),,190,Philips,60.0,M
-696_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,696,Philips,60.0,M
-292_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,292,SIEMENS,70.0,M
-172_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min) ,,172,SIEMENS,60.0,F
-424_pos-supine,Good,No,No,No,No,Yes,Good,Accept with edits,Minor (<5 min),,424,SIEMENS,55.0,F
-091_pos-prone,Good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),,091,SIEMENS,50.0,M
-258_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,258,SIEMENS,50.0,M
-075_pos-prone,Good,Yes,No,Yes,Yes,Yes,Very good,Accept with edits,Moderate (5-10 min),,075,SIEMENS,60.0,F
-226_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,226,SIEMENS,55.0,F
-127_pos-prone,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,127,SIEMENS,50.0,F
-234_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,234,SIEMENS,60.0,M
-063_pos-supine,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,063,SIEMENS,66.0,F
-119_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,119,SIEMENS,50.0,M
-248_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,248,SIEMENS,59.0,M
-428_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),,428,SIEMENS,54.0,F
-194_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,194,SIEMENS,60.0,F
-421_pos-supine,Good,Yes,Yes,No,No,Yes,Good,Accept with edits,Major (>10 min),,421,SIEMENS,71.0,M
-205_pos-prone,Good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,205,TOSHIBA,60.0,F
-206_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,206,TOSHIBA,60.0,F
-097_pos-prone,Very good,No,Yes,Yes,Yes,No,,Accept with edits,Minor (<5 min),,097,TOSHIBA,70.0,F
-558_pos-supine,Good,No,Yes,No,No,Yes,Good,Accept with edits,Moderate (5-10 min),,558,TOSHIBA,58.0,M
-150_pos-prone,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),,150,TOSHIBA,60.0,F
-204_pos-supine,Very good,No,Yes,No,No,No,,Accept with edits,Minor (<5 min),,204,TOSHIBA,50.0,F
-124_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,124,TOSHIBA,60.0,F
-102_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,102,TOSHIBA,60.0,F
-559_pos-prone,Good,No,No,No,No,No,,Accept,Minor (<5 min),a bit flat at certain parts but looks correct. However not fluid,559,TOSHIBA,52.0,M
-140_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,140,TOSHIBA,50.0,M
-204_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,204,TOSHIBA,50.0,F
-205_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min) ,,205,TOSHIBA,60.0,F
-402_pos-supine,Very good,Yes,No,No,No,Yes,Very good,Accept with edits,Minor (<5 min),Minor removal of one false positive and tiny leackage into tissue,402,TOSHIBA,54.0,M
-124_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,124,TOSHIBA,60.0,F
-150_pos-supine,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),,150,TOSHIBA,60.0,F
+Status",2. FP Removal,Unnamed: 3,3. Leakage,Unnamed: 5,4. Fluid,Unnamed: 7,"5. Final 
+Decision",6. Effort,Notes,Subject ID,patients_age,Patient Sex,Scanner
+271_pos-prone,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,271,79.0,F,GE MEDICAL SYSTEMS
+061_pos-supine,Good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,061,52.0,F,GE MEDICAL SYSTEMS
+114_pos-supine,Very good,No,No,No,No,Yes,Very good,Accept,Minor (<5 min),,114,60.0,M,GE MEDICAL SYSTEMS
+214_pos-prone,Very good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),,214,50.0,M,GE MEDICAL SYSTEMS
+070_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,070,62.0,M,GE MEDICAL SYSTEMS
+130_pos-prone,Very good,No,No,No,No,Yes,Very good,Accept,Minor (<5 min),,130,50.0,M,GE MEDICAL SYSTEMS
+216_pos-prone,Very good,No,No,No,No,No,,Accept,Minor (<5 min),,216,50.0,F,GE MEDICAL SYSTEMS
+207_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,207,60.0,F,GE MEDICAL SYSTEMS
+131_pos-prone,Good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,131,60.0,F,GE MEDICAL SYSTEMS
+077_pos-prone,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),,077,50.0,M,GE MEDICAL SYSTEMS
+403_pos-supine_colon_segmentation.mha,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Major (>10 min),,403,51.0,M,GE MEDICAL SYSTEMS
+109_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,109,70.0,M,GE MEDICAL SYSTEMS
+272_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,272,56.0,F,GE MEDICAL SYSTEMS
+415_pos-prone_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,415,53.0,M,GE MEDICAL SYSTEMS
+082_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,082,50.0,F,GE MEDICAL SYSTEMS
+583_pos-supine_colon_segmentation.mha,Good,Yes,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),,583,70.0,F,Philips
+282_pos-supine,Very good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Minor (<5 min),,282,52.0,F,Philips
+011_pos-supine,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),,011,56.0,M,Philips
+281_pos-prone,Good,No,No,Yes,Yes,No,,Accept with edits,Minor (<5 min),,281,72.0,F,Philips
+673_pos-supine_colon_segmentation.mha,Very good,Yes,Yes,Yes,No,Yes,Very good,Accept with edits,Moderate (5-10 min),,673,50.0,F,Philips
+582_pos-prone_colon_segmentation.mha,Good,Yes,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),,582,55.0,M,Philips
+012_pos-supine,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,012,70.0,F,Philips
+582_pos-supine_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,582,55.0,M,Philips
+191_pos-prone,Very good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Minor (<5 min),,191,60.0,M,Philips
+072_pos-prone,Good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Minor (<5 min),,072,57.0,F,Philips
+283_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,283,59.0,F,Philips
+697_pos-supine_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),,697,60.0,F,Philips
+189_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min) ,,189,70.0,M,Philips
+190_pos-prone,Very good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),,190,60.0,M,Philips
+696_pos-supine_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,696,60.0,M,Philips
+292_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,292,70.0,M,SIEMENS
+172_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min) ,,172,60.0,F,SIEMENS
+424_pos-supine_colon_segmentation.mha,Good,No,No,No,No,Yes,Good,Accept with edits,Minor (<5 min),,424,55.0,F,SIEMENS
+091_pos-prone,Good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),,091,50.0,M,SIEMENS
+258_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,258,50.0,M,SIEMENS
+075_pos-prone,Good,Yes,No,Yes,Yes,Yes,Very good,Accept with edits,Moderate (5-10 min),,075,60.0,F,SIEMENS
+226_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,226,55.0,F,SIEMENS
+127_pos-prone,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,127,50.0,F,SIEMENS
+234_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,234,60.0,M,SIEMENS
+063_pos-supine,Very good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,063,66.0,F,SIEMENS
+119_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,119,50.0,M,SIEMENS
+248_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,248,59.0,M,SIEMENS
+428_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),,428,54.0,F,SIEMENS
+194_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,194,60.0,F,SIEMENS
+421_pos-supine_colon_segmentation.mha,Good,Yes,Yes,No,No,Yes,Good,Accept with edits,Major (>10 min),,421,71.0,M,SIEMENS
+205_pos-prone,Good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,205,60.0,F,TOSHIBA
+206_pos-prone,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,206,60.0,F,TOSHIBA
+097_pos-prone,Very good,No,Yes,Yes,Yes,No,,Accept with edits,Minor (<5 min),,097,70.0,F,TOSHIBA
+558_pos-supine_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Moderate (5-10 min),,558,58.0,M,TOSHIBA
+150_pos-prone,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),,150,60.0,F,TOSHIBA
+204_pos-supine,Very good,No,Yes,No,No,No,,Accept with edits,Minor (<5 min),,204,50.0,F,TOSHIBA
+124_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,124,60.0,F,TOSHIBA
+102_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min),,102,60.0,F,TOSHIBA
+559_pos-prone_colon_segmentation.mha,Good,No,No,No,No,No,,Accept,Minor (<5 min),a bit flat at certain parts but looks correct. However not fluid,559,52.0,M,TOSHIBA
+140_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,140,50.0,M,TOSHIBA
+204_pos-prone,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,204,50.0,F,TOSHIBA
+205_pos-supine,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Minor (<5 min) ,,205,60.0,F,TOSHIBA
+402_pos-supine_colon_segmentation.mha,Very good,Yes,No,No,No,Yes,Very good,Accept with edits,Minor (<5 min),Minor removal of one false positive and tiny leakage into tissue,402,54.0,M,TOSHIBA
+124_pos-supine,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),,124,60.0,F,TOSHIBA
+150_pos-supine,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),,150,60.0,F,TOSHIBA
