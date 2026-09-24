@@ -1,0 +1,117 @@
+﻿File / Case ID,"1. Colon
+Status",2. FP Removal,,3. Leakage,,4. Fluid,,"5. Final
+Decision",6. Effort,Notes
+,,"2A. Small
+Bowel","2B. Rectal
+Tube",3A. Bone,3B. Lung,"4A. Present
+on CT","4B. Segmentation
+Quality",,,
+,Very good / Good / Bad / Unclear,Yes / No / Unsure,Yes / No,Yes / No,Yes / No,Yes / No,"Very good / Good / Bad / Unclear
+(only if 4A = Yes)","Accept / Accept with edits / Review later / Reject
+(auto: Reject if Fluid present but Bad quality)",Minor (<5 min) / Moderate (5–10 min) / Major (>10 min),Free text
+400_pos-supine_colon_segmentation.mha,Bad,Unsure,No,Yes,Yes,Yes,Bad,Reject,Minor (<5 min),Big part of colon not segmented
+401_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),Big part of colon not segmented. Colon appear to be not properly inflated and therefore appears like tissue
+401_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),Big part of colon not segmented. Colon appear to be not properly inflated and therefore appears like tissue
+402_pos-supine_colon_segmentation.mha,Very good,Yes,No,No,No,Yes,Very good,Accept with edits,Minor (<5 min),Minor removal of one false positive and tiny leakage into tissue
+403_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+403_pos-supine_colon_segmentation.mha,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Major (>10 min),
+405_pos-prone_colon_segmentation.mha,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Major (>10 min),
+405_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+406_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),
+406_pos-supine_colon_segmentation.mha,Very good,No,Yes,Yes,Yes,Yes,Very good,Accept with edits,Moderate (5-10 min),
+407_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+409_pos-prone_colon_segmentation.mha,Very good,Yes,No,Yes,Yes,Yes,Very good,Accept with edits,Moderate (5-10 min),
+409_pos-supine_colon_segmentation.mha,Bad,,,,,,Bad,Reject,Minor (<5 min),No segmentation
+411_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+411_pos-supine_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+412_pos-supine_colon_segmentation.mha,Good,Yes,Yes,Yes,Yes,Yes,Very good,Accept with edits,Moderate (5-10 min),
+413_pos-prone_colon_segmentation.mha,Bad,No,Yes,Yes,Yes,,,Reject,Minor (<5 min),
+413_pos-supine_colon_segmentation.mha,Good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+414_pos-prone_colon_segmentation.mha,Good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+414_pos-supine_colon_segmentation.mha,Good,Yes,No,No,No,Yes,Good,Accept with edits,Moderate (5-10 min),small parts of fluid missing
+415_pos-prone_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+415_pos-supine_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+416_pos-prone_colon_segmentation.mha,Bad,,,,,Yes,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+416_pos-supine_colon_segmentation.mha,Bad,,,,,Yes,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+417_pos-prone_colon_segmentation.mha,Bad,,,,,Yes,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+417_pos-supine_colon_segmentation.mha,Bad,,,,,Yes,,Reject,Minor (<5 min),half of the colon missing
+418_pos-prone_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+418_pos-supine_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+419_pos-prone_colon_segmentation.mha,Bad,No,Yes,No,No,Yes,Bad,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+419_pos-supine_colon_segmentation.mha,Bad,No,Yes,No,No,Yes,Bad,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+420_pos-prone_colon_segmentation.mha,Good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+421_pos-prone_colon_segmentation.mha,Bad,,,,,Yes,,Reject,Minor (<5 min),part of colon missing
+421_pos-supine_colon_segmentation.mha,Good,Yes,Yes,No,No,Yes,Good,Accept with edits,Major (>10 min),
+422_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+422_pos-supine_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),
+423_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+423_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+424_pos-prone_colon_segmentation.mha,Good,No,No,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+424_pos-supine_colon_segmentation.mha,Good,No,No,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+425_pos-prone_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+425_pos-supine_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+426_pos-prone_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+427_pos-prone_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),
+428_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Moderate (5-10 min),
+428_pos-supine_colon_segmentation.mha,Bad,,,,,Yes,Bad,Reject,Moderate (5-10 min),bigger parts of colon missing
+429_pos-prone_colon_segmentation.mha,Good,Yes,No,No,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+429_pos-supine_colon_segmentation.mha,Good,No,No,No,No,Yes,Good,Accept,Minor (<5 min),
+430_pos-prone_colon_segmentation.mha,Good,Yes,No,No,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+431_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Moderate (5-10 min),bones too attached with colon
+431_pos-supine_colon_segmentation.mha,Good,Yes,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+432_pos-prone_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+432_pos-supine_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+433_pos-supine_colon_segmentation.mha,Good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+434_pos-prone_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+434_pos-supine_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+435_pos-prone_colon_segmentation.mha,Good,Yes,Yes,Yes,Yes,Yes,Good,Accept with edits,Major (>10 min),
+435_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+436_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+437_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+437_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,,most of the colon missing
+438_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+439_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+439_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+440_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+442_pos-prone_colon_segmentation.mha,Good,Yes,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+442_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+443_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Moderate (5-10 min),most of the colon missing
+443_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,Yes,No,,Accept with edits,Major (>10 min),
+444_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+444_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+445_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),parts of small intestine attached to colon
+445_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+446_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),most of the colon missing
+446_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+447_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+448_pos-prone_colon_segmentation.mha,Good,No,No,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+449_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,Yes,Yes,Good,Accept with edits,Moderate (5-10 min),
+556_pos-supine_colon_segmentation.mha,Bad,No,No,Yes,Yes,Yes,Bad,Reject,Minor (<5 min),big part of colon missing
+557_pos-supine_colon_segmentation.mha,Bad,No,No,No,No,Yes,Bad,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+558_pos-prone_colon_segmentation.mha,Bad,No,Yes,No,No,Yes,Bad,Reject,Minor (<5 min),some part of colon missing
+558_pos-supine_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+559_pos-prone_colon_segmentation.mha,Good,No,No,No,No,No,,Accept,Minor (<5 min),a bit flat at certain parts but looks correct. However not fluid
+560_pos-supine_colon_segmentation.mha,Bad,No,,Yes,,Yes,,Reject,Minor (<5 min),big part of colon missing
+561_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),big part of colon missing
+561_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),big part of colon missing
+684_pos-supine_colon_segmentation.mha,Bad,No,Yes,No,No,Yes,Bad,Reject,Minor (<5 min),big part of colon missing
+684_pos-prone_colon_segmentation.mha,Bad,,,,,Yes,Bad,Reject,Minor (<5 min),big part of colon missing
+695_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),very big part of colon missing
+685_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),big part of colon missing
+824_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),very big part of colon missing
+824_pos-supine_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),empty mask
+581_pos-supine_colon_segmentation.mha,Bad,,,,,Yes,Bad,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+582_pos-prone_colon_segmentation.mha,Good,Yes,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+582_pos-supine_colon_segmentation.mha,Very good,Yes,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+583_pos-prone_colon_segmentation.mha,Good,No,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+583_pos-supine_colon_segmentation.mha,Good,Yes,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+640_pos-prone_colon_segmentation.mha,Bad,Yes,Yes,Yes,No,,,Reject,Major (>10 min),colon melted together with bones
+640_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),
+673_pos-prone_colon_segmentation.mha,Bad,,,,,,,Reject,Minor (<5 min),colon not segment where tissue is light. Flat cut off
+673_pos-supine_colon_segmentation.mha,Very good,Yes,Yes,Yes,No,Yes,Very good,Accept with edits,Moderate (5-10 min),
+696_pos-supine_colon_segmentation.mha,Very good,No,Yes,No,No,Yes,Very good,Accept with edits,Minor (<5 min),
+697_pos-prone_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+697_pos-supine_colon_segmentation.mha,Good,No,Yes,No,No,Yes,Good,Accept with edits,Minor (<5 min),
+698_pos-supine_colon_segmentation.mha,Very good,No,Yes,Yes,No,Yes,Very good,Accept with edits,Minor (<5 min),
+699_pos-prone_colon_segmentation.mha,Bad,,,Yes,,,,Reject,Minor (<5 min),colon flat for some sections
+699_pos-supine_colon_segmentation.mha,Good,No,Yes,Yes,No,Yes,Good,Accept with edits,Moderate (5-10 min),
